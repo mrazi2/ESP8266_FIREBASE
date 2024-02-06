@@ -12,14 +12,14 @@
 #include "addons/RTDBHelper.h"
 
 // Insert your network credentials
-#define WIFI_SSID "Razi's iPhone"
-#define WIFI_PASSWORD "22100208"
+#define WIFI_SSID "SSID"
+#define WIFI_PASSWORD "PASSWORD"
 
 // Insert Firebase project API Key
-#define API_KEY "AIzaSyC_T-yPDjUYPMI9L5IO0ruGCRpvtUn9jFk"
+#define API_KEY "ADD YOUR API KEY"
 
 // Insert RTDB URLefine the RTDB URL */
-#define DATABASE_URL "https://mesh-firebase-375e0-default-rtdb.asia-southeast1.firebasedatabase.app/" 
+#define DATABASE_URL "ADD YOUR URL HERE" 
 
 //Define Firebase Data object
 FirebaseData fbdo;
